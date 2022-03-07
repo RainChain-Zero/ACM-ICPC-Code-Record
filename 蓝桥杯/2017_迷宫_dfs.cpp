@@ -1,4 +1,5 @@
 //AC！
+//http://oj.ecustacm.cn/problem.php?id=1317
 #include<iostream>
 #include<cstring>
 using namespace std;
